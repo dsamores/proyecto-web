@@ -2,7 +2,7 @@
 
 Este proyecto es un sitio web para el restaurante Paquita.
 
-Tiene varias paginas incluido: index.html, contacto.html
+Tiene varias paginas incluido: `index.html`, `contacto.html`
 
 ## Documentacion
 
@@ -16,3 +16,8 @@ Para anadir un bloque de codigo HTML, usemos el siguiente ejemplo:
 ```
 <html></html>
 ```
+## Autores
+
+1. David Amores
+2. Pepito
+3. Maria
